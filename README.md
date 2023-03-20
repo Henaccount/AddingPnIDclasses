@@ -12,4 +12,4 @@ So these entries appear to be the minimum entries to create a new P&ID class.
 
 For sure you want to add more information to your new class, so (as a recommendation) create all this manually in the configuration and check the resulting entries in the tables (above), so you can do the same with your code.
 
-
+<img src="./pnptable.png">
